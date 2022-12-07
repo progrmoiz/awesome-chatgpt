@@ -53,7 +53,10 @@ Let's write a science fiction story together. Ask me for input about characters,
 
 Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-writing-with-openais-chatgpt
 
-### Resources
+## Ideas
+- TBD.
+
+## Resources
 - [Sam Altman's announcement thread](https://twitter.com/sama/status/1598038815599661056)
 - [Explaining and fixing bugs in code.](https://twitter.com/amasad/status/1598042665375105024)
 - [Google is in trouble 😬](https://twitter.com/jdjkelly/status/1598021488795586561)
@@ -62,6 +65,7 @@ Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-
 - [Make money and write code 👨‍💻](https://twitter.com/nevmed/status/1598023273304182784)
 - [Explaining Complicated Regex](https://twitter.com/jwblackwell/status/1598090447854792705)
 - [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)
+- [11 business ideas you could build on ChatGPT](https://twitter.com/bentossell/status/1598694052144320516)
 
 ## Contributing
 
