@@ -60,7 +60,9 @@ Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-
 - [ChatGPT directly integrated into Google Docs](https://twitter.com/cesarhuret/status/1599602487102562304)
 
 ## Ideas
-- TBD.
+- Exam writer
+- ChatGPT widget for Windows/MacOS
+- ChatGPT widget for browser
 
 ## Resources
 - [Sam Altman's announcement thread](https://twitter.com/sama/status/1598038815599661056)
