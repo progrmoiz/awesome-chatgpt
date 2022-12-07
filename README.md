@@ -54,9 +54,9 @@ Let's write a science fiction story together. Ask me for input about characters,
 Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-writing-with-openais-chatgpt
 
 ## ChatGPT in apps
-- [Whatsapp](https://twitter.com/danielgross/status/1598735800497119232)
-- [Telegram](https://twitter.com/altryne/status/1598822052760195072)
-- [Twitter](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+- [Whatsapp bot](https://twitter.com/danielgross/status/1598735800497119232)
+- [Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
+- [Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 
 ## Ideas
 - TBD.
