@@ -17,3 +17,13 @@ Source: https://www.engraved.blog/building-a-virtual-machine-inside/
 > Generate Python code that uses CP to read the contents of an image and then get the sentiment of it.
 
 Source: https://twitter.com/amasad/status/1598089698534395924
+
+### Debug Code 
+```
+find the bug in the following code piece
+
+a = 1
+while are:
+b = input(*what's your name?")
+print("Hi", b, ", welcome to an amazing loop")
+```
