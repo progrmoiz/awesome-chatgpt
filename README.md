@@ -39,6 +39,11 @@ print("Hi", b, ", welcome to an amazing loop")
 what are wormholes. Explain like I am 5
 ```
 
+### Blog post outlines
+```
+Can you give me some examples of blog posts to write on the topic of unsubscribing from emails?
+```
+
 ## Contributing
 
 __Open an issue or a pull request to suggest changes or additions.__
