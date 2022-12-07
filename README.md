@@ -47,13 +47,13 @@ Can you give me some examples of blog posts to write on the topic of unsubscribi
 Source: https://twitter.com/JamesIvings/status/1600389722777432064
 
 ### Resources
-[Sam Altman's announcement thread](https://twitter.com/sama/status/1598038815599661056)
-[Explaining and fixing bugs in code.](https://twitter.com/amasad/status/1598042665375105024)
-[Google is in trouble 😬](https://twitter.com/jdjkelly/status/1598021488795586561)
-[Generating AI Image Prompts 🌉](https://twitter.com/GuyP/status/1598020781065527296)
-[How to use OpenAI's ChatGPT for creative writing collaboration.](https://twitter.com/AndrewMayne/status/1598076165402419201)
-[Make money and write code 👨‍💻](https://twitter.com/nevmed/status/1598023273304182784)
-[Explaining Complicated Regex](https://twitter.com/jwblackwell/status/1598090447854792705)
+- [Sam Altman's announcement thread](https://twitter.com/sama/status/1598038815599661056)
+- [Explaining and fixing bugs in code.](https://twitter.com/amasad/status/1598042665375105024)
+- [Google is in trouble 😬](https://twitter.com/jdjkelly/status/1598021488795586561)
+- [Generating AI Image Prompts 🌉](https://twitter.com/GuyP/status/1598020781065527296)
+- [How to use OpenAI's ChatGPT for creative writing collaboration.](https://twitter.com/AndrewMayne/status/1598076165402419201)
+- [Make money and write code 👨‍💻](https://twitter.com/nevmed/status/1598023273304182784)
+- [Explaining Complicated Regex](https://twitter.com/jwblackwell/status/1598090447854792705)
 
 ## Contributing
 
