@@ -57,6 +57,7 @@ Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-
 - [Whatsapp bot](https://twitter.com/danielgross/status/1598735800497119232)
 - [Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
 - [Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+- [ChatGPT directly integrated into Google Docs](https://twitter.com/cesarhuret/status/1599602487102562304)
 
 ## Ideas
 - TBD.
