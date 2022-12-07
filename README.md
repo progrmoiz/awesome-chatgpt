@@ -46,7 +46,7 @@ Can you give me some examples of blog posts to write on the topic of unsubscribi
 
 Source: https://twitter.com/JamesIvings/status/1600389722777432064
 
-### 
+### Fiction story
 ```
 Let's write a science fiction story together. Ask me for input about characters, plot etc.
 ```
