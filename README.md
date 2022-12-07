@@ -58,11 +58,11 @@ Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-
 - [Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
 - [Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 - [ChatGPT directly integrated into Google Docs](https://twitter.com/cesarhuret/status/1599602487102562304)
+- [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac)
 
 ## Ideas
-- Exam writer
 - ChatGPT widget for Windows/MacOS
-- ChatGPT widget for browser
+- ChatGPT widget for Browsers
 
 ## Resources
 - [Sam Altman's announcement thread](https://twitter.com/sama/status/1598038815599661056)
