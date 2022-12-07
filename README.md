@@ -46,6 +46,13 @@ Can you give me some examples of blog posts to write on the topic of unsubscribi
 
 Source: https://twitter.com/JamesIvings/status/1600389722777432064
 
+### 
+```
+Let's write a science fiction story together. Ask me for input about characters, plot etc.
+```
+
+Source: https://andrewmayneblog.wordpress.com/2022/11/30/collaborative-creative-writing-with-openais-chatgpt
+
 ### Resources
 - [Sam Altman's announcement thread](https://twitter.com/sama/status/1598038815599661056)
 - [Explaining and fixing bugs in code.](https://twitter.com/amasad/status/1598042665375105024)
@@ -54,6 +61,7 @@ Source: https://twitter.com/JamesIvings/status/1600389722777432064
 - [How to use OpenAI's ChatGPT for creative writing collaboration.](https://twitter.com/AndrewMayne/status/1598076165402419201)
 - [Make money and write code 👨‍💻](https://twitter.com/nevmed/status/1598023273304182784)
 - [Explaining Complicated Regex](https://twitter.com/jwblackwell/status/1598090447854792705)
+- [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)
 
 ## Contributing
 
