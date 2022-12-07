@@ -33,5 +33,11 @@ print("Hi", b, ", welcome to an amazing loop")
 what are wormholes. Explain like I am 5
 ```
 
+## Contributing
+
+__Open an issue or a pull request to suggest changes or additions.__
 
 [Follow me on twitter](https://twitter.com/iammoizfarooq)
+
+[:arrow_up: __Back To Top__](#python-snippets)
+
