@@ -37,7 +37,7 @@ what are wormholes. Explain like I am 5
 
 __Open an issue or a pull request to suggest changes or additions.__
 
-[Follow me on twitter](https://twitter.com/iammoizfarooq)
+[Find me on twitter](https://twitter.com/iammoizfarooq)
 
 [:arrow_up: __Back To Top__](#python-snippets)
 
