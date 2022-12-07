@@ -27,3 +27,5 @@ while are:
 b = input(*what's your name?")
 print("Hi", b, ", welcome to an amazing loop")
 ```
+
+[Follow me on twitter](https://twitter.com/iammoizfarooq)
